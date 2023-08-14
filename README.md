@@ -6,6 +6,7 @@ Pytorch implementation for STNet: An End-to-End Generative Framework for Synthes
 - CUDA >= 10.0
 - Python >= 3.7
 - Numpy
+- Skimage
 - Pytorch >= 1.0
 
 ## Data format
