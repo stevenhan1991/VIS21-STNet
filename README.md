@@ -41,4 +41,4 @@ python3 main.py --mode 'inf' --dataset 'Vortex'
 
 ```
 ## Acknowledgements
-This research was supported in part by the U.S. National Sci- ence Foundation through grants IIS-1455886, CCF-1617735, CNS- 1629914, DUE-1833129, IIS-1955395, IIS-2101696, and OAC- 2104158.
+This research was supported in part by the U.S. National Science Foundation through grants IIS-1455886, CCF-1617735, CNS- 1629914, DUE-1833129, IIS-1955395, IIS-2101696, and OAC- 2104158.
